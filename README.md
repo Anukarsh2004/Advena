@@ -7,6 +7,6 @@ Advena is a social event planning app that helps solo travellers and locals disc
 
 
 ### YouTube Video Demo
-https://youtu.be/N8oanpsBq48
+https://youtu.be/N8oanpsBq48 
 
 
